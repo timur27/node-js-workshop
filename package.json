@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-train",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic-http-server.js",
+  "scripts": {
+    "dev": "nodemon basic-express-server.js open",
+    "prod": "node basic-express-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timur27/node-js-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timur27/node-js-workshop/issues"
+  },
+  "homepage": "https://github.com/timur27/node-js-workshop#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
