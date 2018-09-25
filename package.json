@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/timur27/node-js-workshop#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.3"
   },
   "devDependencies": {
