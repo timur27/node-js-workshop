@@ -24,4 +24,3 @@ app.post('/api', (req, res) => {
     lastInput = req.body;
     res.redirect('/api');
 });
-
